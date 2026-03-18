@@ -1,0 +1,24 @@
+{
+  "system": "LukaAI",
+  "version": "2.2",
+  "status": "locked",
+  "checksum_policy": "optional",
+  "canonical": {
+    "00_CANONICAL/LukaAI_v2.2_Master_General.txt": {
+      "status": "locked"
+    },
+    "00_CANONICAL/LukaAI_v2.2_Master_Claude.txt": {
+      "status": "locked"
+    },
+    "00_CANONICAL/Luka_Brand_Core_Doctrine_Latest.txt": {
+      "status": "locked"
+    }
+  },
+  "reference": [
+    "01_REFERENCE/LukaAI_VersionX_Reference_Guide.pdf",
+    "01_REFERENCE/UPGRADE_CHECKLIST.md",
+    "01_REFERENCE/BOOTSTRAP_PROMPTS/"
+  ],
+  "archive": "02_ARCHIVE",
+  "notes": "Checksums may be added in a future version to support verified rollback."
+}
